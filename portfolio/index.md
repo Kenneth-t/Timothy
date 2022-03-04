@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>Eeckhout BVBA</strong><br>Vloeren | Stuken | Algemene bouwwerken"
+hero_text: "<strong>Eeckhout BVBA</strong><br>Algemene bouwwerken"
 title: Hero
 
 ---
