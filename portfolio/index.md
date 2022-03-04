@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>Wij zijn Eeckhout BVBA</strong>, uw plek voor vloeren, lorem en
-  andere zaken :)"
+hero_text: "<strong>Timothy Eeckhout</strong>, uw partner voor <br>vloeren, <br>lorem
+  en <br>andere zaken :)"
 title: Hero
 
 ---
