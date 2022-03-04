@@ -1,6 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>Timothy Eeckhout</strong>, uw partner voor <br>vloeren, lorem
+hero_text: "<strong>Timothy Eeckhout</strong><br>Algemen bouwwerken, vloeren, lorem
   en andere zaken :)"
 title: Hero
 
