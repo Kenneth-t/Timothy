@@ -1,7 +1,7 @@
 ---
 title: Natuursteel vloer
 date: 2018-08-09T18:05:37.000+00:00
-thumbnail: "/upload/vloer1-1.jpeg"
+thumbnail: "/upload/schermafbeelding-2022-03-04-om-21-07-33.png"
 year: 2016
 description: Lorem ipsum vloer iets over het project hier, kort.
 categories:
