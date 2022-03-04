@@ -1,7 +1,6 @@
 ---
 works_index: true
-hero_text: "<strong>Timothy Eeckhout</strong><br>Algemen bouwwerken, vloeren, lorem
-  en andere zaken :)"
+hero_text: "<strong>Eeckhout BVBA</strong><br>Vloeren | Stuken | Algemene bouwwerken"
 title: Hero
 
 ---
