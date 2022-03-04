@@ -1,8 +1,8 @@
 {
-  "title": "Acme",
-  "description": "Creative Agency",
+  "title": "Algemene bouwwerken Timothy Eeckhout",
+  "description": "Algemene bouwwerken, vloeren, gevelwerken, dakwerken",
   "logo": "/upload/logo.svg",
-  "footer": "Ⓒ Acme",
+  "footer": "Ⓒ Timothy Eeckhout BVBA",
   "favicon": "favicon-32x32.png",
   "navigation": [
     {
@@ -12,7 +12,7 @@
       "external": false
     },
     {
-      "text": "mail",
+      "text": "Mail",
       "link": "mailto:timothy@bouwerken-eeckhout.be",
       "position": "right",
       "external": true
