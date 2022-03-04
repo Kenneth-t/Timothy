@@ -1,9 +1,9 @@
 ---
-title: Terras lorem ipsum
+title: Natuursteel vloer
 date: 2018-08-09T18:05:37.000+00:00
 thumbnail: ''
 year: 2016
-description: subtitle
+description: Lorem ipsum vloer iets over het project hier, kort.
 categories:
 - vloeren
 
